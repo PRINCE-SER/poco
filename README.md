@@ -22,10 +22,10 @@
 	<h2>Queen Amdi v3 whatsapp bot (Old bot without buttons) :</h1>
 	
 ### QR CODE
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@PRINCE-SER/Poco-prince?v=1)
 
 ### Deploy OLD v3 Queen Amdi Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/PRINCE-SER/poco)
 </div>
 
 ----
